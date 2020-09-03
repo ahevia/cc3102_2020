@@ -69,7 +69,7 @@ Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
 ## Calendario
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
-:----  | :----: | :--------------:     | --------------:  | --------------:                |  ---------:
+:----  | :----: | :--------------:     | :--------------  | :--------------                |  :---------
 1      | 1      | Introducción         | Motivación        | Navarro Cap. 1, Sipser Cap. 0  |  
 1      | 2      |                      | Conceptos Básicos | idem   |  
 2      | 3      | Lenguajes Regulares  | Autómatas finitos determinísticos,, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 |  
