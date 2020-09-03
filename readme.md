@@ -57,7 +57,30 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 
 ## Politica de Colaboración
 
+Para resolver las actividades evaluativas, pueden colaborar entre dos o más personas siempre que usen la política de _Whiteboard_ (o "pizarrón en blanco"), esto es
+- Al juntarse, pueden compartir un pizarrón o editor donde ambxs escriban y discutan cómo resolver el problema, pero **nadie puede grabar ni tomar fotografías**.  
+- Al terminar, se "borra" (se cierra), y luego de 30min, cada unx escribe/redacta su solución en forma individual.
+
+Se prohibe buscar soluciones por Internet, o usar las soluciones de otra persona.
+(En serio, no use soluciones encontradas en Internet, no sólo por un tema ético sino porque hay muchas equivocadas o que usan ideas o conceptos que vemos distinto en este curso).
+
+Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
+
 ## Calendario
 
-## Bibliografia
+Semana | Clase | Tema          | Contenidos       | Lecturas         | Comentarios 
+:------------: | ------------- | :--------------: | :--------------: | ------------- 
+1      | 1     | Introducción  | Motivación        | Navarro Cap. 1, Sipser Cap. 0 |  
+       | 2     |               | Conceptos Básicos | idem   |
+2      | 3     | Lenguajes Regulares  | Autómatas finitos determinísticos,, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 | 
+       | 4     |               | AF no deterministas, equivalencia | Navarro Cap. 2.3,2.5, Sipser Cap. 1.2, HMU: Cap. 4.4 (pag.155-165)  |
 
+
+## Bibliografia
+- **[Sipser]** Michael Sipser, **Introduction to the Theory of Computation, 
+	Third Edition*, 2013. Cengage Learning Press.
+	[Referencia](http://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790).
+- **[Navarro]** Gonzalo Navarro, **Teoría de la Computación (Lenguajes Formales, Computabilidad y Complejidad), Apuntes y Ejercicios**, Universidad de Chile, Dic. 2018.  
+  Disponible desde [la página del prof. Navarro](http://www.dcc.uchile.cl/~gnavarro/apunte.html). 
+- **[HMU]** J. Hopcroft, R. Motwani, y J. Ullman. *Introduction to Automata Theory, Languages and Computation*. 3er edition, Addison-Wesley, 2007.
+- **[LP]** H. Lewis y C. Papadimitrou. Elements of the Theory of Computation. Prentice-Hall, 1981.
