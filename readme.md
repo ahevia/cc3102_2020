@@ -9,7 +9,9 @@ Conocer diferencias en cuanto a la eficiencia de computación de
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Martes y Jueves 12:15pm-1:15pm
-- Auxiliares: Miércoles 4:15pm-5:45pm
+- Clases auxiliares: Miércoles 4:15pm-5:45pm. 
+	- Auxiliares: Ilana Mergudich, y Rodrigo Fuentes.
+	- Ayudantes: Antonia Labarca, Diego León, Pablo Paredes Haz, Vicente Rojas
 - Sitio web oficial del curso: este y [ucursos](https://www.u-cursos.cl/ingenieria/2020/2/CC3102/1)
 - [Programa del curso](https://users.dcc.uchile.cl/~ahevia/cursos/2019/cc3102/programa.pdf)
 
