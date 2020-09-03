@@ -68,12 +68,12 @@ Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
 
 ## Calendario
 
-Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios 
-:----: | :----: | :--------------:     | :--------------:  | :--------------:               | ------------- 
+Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
+:----  | :----: | :--------------:     | :--------------:  | --------------:                |  
 1      | 1      | Introducción         | Motivación        | Navarro Cap. 1, Sipser Cap. 0  |  
-       | 2      |                      | Conceptos Básicos | idem                           | 
-2      | 3      | Lenguajes Regulares  | Autómatas finitos determinísticos,, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 | 
-       | 4      |                      | AF no deterministas, equivalencia | Navarro Cap. 2.3,2.5, Sipser Cap. 1.2, HMU: Cap. 4.4 (pag.155-165)  | 
+1      | 2      |                      | Conceptos Básicos | idem   |  
+2      | 3      | Lenguajes Regulares  | Autómatas finitos determinísticos,, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 |  
+2      | 4      |                      | AF no deterministas, equivalencia | Navarro Cap. 2.3,2.5, Sipser Cap. 1.2, HMU: Cap. 4.4 (pag.155-165)  | 
 
 
 ## Bibliografia
