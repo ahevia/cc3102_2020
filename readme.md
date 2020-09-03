@@ -37,10 +37,10 @@ También se usará el apunte del profesor Navarro para ciertos capitulos, lo cua
 Se espera que el estudiante lea y estudie en forma independiente el o los capítulos correspondientes
   a la materia vista en clases.
 
-El curso está fuertemente basado en trabajo personal. Se espera que los estudiantes 
+El curso está fuertemente basado en trabajo personal. Se espera que los estudiantes: 
 - asistan a las clases de cátedra y auxiliares, (y de ser posible pregunten vía audio o chat),
 - lean los capítulos de los libros clase a clase,
-- interactuen (hagan preguntas) en el foro de estudiantes y chats (por ej. zoom en cátedras y auxiliares),
+- interactúen (hagan preguntas) en el foro de estudiantes y chats (por ej. zoom en cátedras y auxiliares),
 - resuelvan los problemas propuestos (dejados en clase), y
 - resuelvan los problemas de las guías de problemas propuestos.
 
@@ -52,6 +52,8 @@ El curso será completamente evaluado con 3 controles obligatorios y uno recuper
 Para resolver cada control tendrán 2 semanas, y su solución tendrá dos partes:
 - la solución escrita (un PDF en latex o escrita a mano siempre que tenga letra legible y ordenada), y
 - un video de a lo más 3 min explicando lo fundamental de su solución (esto NO es re-describir su solución, sino explicar brevemente la idea principal de cada solución, o con qué se inspiraron, o en base a qué problema o lo hicieron, o si no la entendieron completamente, qué si entendieron). 
+
+Se espera que cada estudiante **entienda bien su solución**. El equipo docente se reserva el derecho a *citar a entrevista personal (vía zoom)* a algunos estudiantes para que expliquen su solución del control. Cuáles estudiantes serán citados será decidido arbitrariamente por el profesor. Note que, el que Ud. sea llamadx _no significa que esté acusado de copia o nada_, simplemente es una manera de confirmar que cada estudiante entiende su solución. Si es llamado a entrevista, la nota final de la solución dependerá tanto de la explicación escrita como de la entrevista.
 
 Tendremos una evaluación extra opcional (del tipo control para la casa) para recuperar la nota al final. El examen (eximidos con 5.0) será tendrá parte no presencial (como los controles, sin video) pero tendrá obligatoriamente entrevista.
 
