@@ -83,7 +83,7 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 ## Bibliografia
 - **[Sipser]** Michael Sipser, **Introduction to the Theory of Computation, 
 	Third Edition*, 2013. Cengage Learning Press.
-	[Referencia](http://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790).
+	(Ver ucursos.)
 - **[Navarro]** Gonzalo Navarro, **Teoría de la Computación (Lenguajes Formales, Computabilidad y Complejidad), Apuntes y Ejercicios**, Universidad de Chile, Dic. 2018.  
   Disponible desde [la página del prof. Navarro](http://www.dcc.uchile.cl/~gnavarro/apunte.html). 
 - **[HMU]** J. Hopcroft, R. Motwani, y J. Ullman. *Introduction to Automata Theory, Languages and Computation*. 3er edition, Addison-Wesley, 2007.
