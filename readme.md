@@ -57,7 +57,7 @@ Para resolver cada control tendrán 2 semanas, y su solución tendrá dos partes
 
 Se espera que cada estudiante **entienda bien su solución**. El equipo docente se reserva el derecho a *citar a entrevista personal (vía zoom)* a algunos estudiantes para que expliquen su solución del control. Cuáles estudiantes serán citados será decidido arbitrariamente por el profesor. Note que, el que Ud. sea llamadx _no significa que esté acusado de copia o nada_, simplemente es una manera de confirmar que cada estudiante entiende su solución. Si es llamado a entrevista, la nota final de la solución dependerá tanto de la explicación escrita como de la entrevista.
 
-Tendremos una evaluación extra opcional (del tipo control para la casa) para recuperar la nota al final. El examen (eximidos con 5.0) será tendrá parte no presencial (como los controles, sin video) pero tendrá obligatoriamente entrevista.
+Tendremos una evaluación extra opcional (del tipo control para la casa) para recuperar la nota al final. El examen (eximidos con 5.0) tendrá parte evaluativa no síncrona (como los controles, sin video) pero tendrá obligatoriamente una parte síncrona, en la forma de una entrevista.
 
 ## Politica de Colaboración
 
