@@ -73,14 +73,24 @@ Se prohibe buscar soluciones por Internet, o usar las soluciones de otra persona
 
 Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
 
+Actualización 2020-09-22: Existe un servidor de [Discord](https://discord.gg/V6G9c4Y) para el curso. Está disponible para contactar a los auxiliares, ayudantes y el profesor; además puede usarlo para colaborar si lo desea. Si no sabe usarlo, preguntar en el foro.
+
 ## Calendario
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
-:----  | :----: | :--------------:     | :--------------  | :--------------                |  :---------
-1      | 1      | Introducción         | Motivación        | Navarro Cap. 1, Sipser Cap. 0  |  
-1      | 2      |                      | Conceptos Básicos | idem   |  
-2      | 3      | Lenguajes Regulares  | Autómatas finitos determinísticos,, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 |  
-2      | 4      |                      | AF no deterministas, equivalencia | Navarro Cap. 2.3,2.5, Sipser Cap. 1.2, HMU: Cap. 4.4 (pag.155-165)  | 
+:----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
+1      | 0      | Introducción         | Motivación        | Navarro Cap. 1, Sipser Cap. 0  |  
+1      | 1      |                      | Conceptos Básicos | idem   |  
+2      | 2      | Lenguajes Regulares (LR)  | Autómatas finitos (AF) determinísticos, operaciones y clausura  | Navarro Cap. 2.2, Sipser Cap. 1.1 |  
+2      | 3      |                      | AF no deterministas, equivalencia | Navarro Cap. 2.3,2.5, Sipser Cap. 1.2, HMU: Cap. 4.4 (pag.155-165)  | 
+3      | 4      |                      | Continuación clase pasada  |  | 
+3      | 5      | Expresiones Regulares  | Clausura usando no-determinismo, Expresiones Regulares  | Navarro Cap. 2.1; Sipser Cap. 1.2, 1.3 | 
+4      | 6      |                      | ER Parte II (Equivalencia AF y ER), Props. Algorítmicas de LR.   | Navarro Cap. 2.3,2.4,2.6,2.9; Sipser Cap. 1.2, 1.3 | 
+4      | 7      | Lema del Bombeo  | Enunciado y Ejemplo | Navarro Cap. 2.8; Sipser Cap. 1.4 | 
+5      | 8      | Lenguajes Libres de Contexto (LLC)| Gramáticas Libres de Contexto (GLC)   | Navarro Cap. 3.1,3.2; Sipser Cap. 2.1  |
+5      | 9      |                      | Autómatas de Pila (AP)  | Navarro Cap. 3.3; Sipser Cap. 2.1  | 
+6      | 10     |                      | Equivalencia GLC y AP  | Navarro Cap. 3.4,3.5; Sipser Cap. 2.2  | 
+6      | 11     |                      | Teorema de Bombeo, Props. Algorítmicas y Clausura LLC  | Navarro Cap. 3.6,3.7,3.8; Sipser Cap. 2.3  | 
 
 
 ## Bibliografia
