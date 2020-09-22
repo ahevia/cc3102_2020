@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-09-03-22:30)_
+_(Actualizado el 2020-09-22-20:00)_
 
 **Propósito:**
 Conocer qué problemas 
