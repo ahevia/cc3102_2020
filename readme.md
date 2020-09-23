@@ -10,7 +10,7 @@ Conocer diferencias en cuanto a la eficiencia de computación de
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Martes y Jueves 12:15pm-1:15pm
-- **Horario Consultas profesor: Lu 10am-11am, Vie 3pm-4pm.**
+- **Horario Consultas profesor: Lu 10am-11am, Vie 11am-12pm.**
 - Clases auxiliares: Miércoles 4:15pm-5:45pm. 
 	- Auxiliares: Ilana Mergudich, y Rodrigo Fuentes.
 	- Ayudantes: Antonia Labarca, Diego León, Pablo Paredes Haz, Vicente Rojas
