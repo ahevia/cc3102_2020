@@ -141,9 +141,9 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 12     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
 12     | 23     |                      | SAT es NPC, 3SAT     | Navarro Cap. 6.4; Sipser Cap. 7.4 (304-311)  | 
 13     | 24     |                      | Otros lenguajes NPC | Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
-13     | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  |
-14     | 26     |                      | NPC en la práctica, Clases de Complejidad probabilísticas, Complejidad de Espacio, Complejidad Cuántica | Navarro Cap. 6.6; (Pendiente)     | 
-14     | 27     |                      | Demostraciones Interactivas y Zero-Knowledge  | (Pendiente)     |
+13     | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  | Opcional: Sujeto a disponibilidad de tiempo.
+14     | 26     |                      | NPC en la práctica, Clases de Complejidad probabilísticas, Complejidad de Espacio, Complejidad Cuántica | Navarro Cap. 6.6; (Pendiente)     | Opcional: Sujeto a disponibilidad de tiempo.
+14     | 27     |                      | Demostraciones Interactivas y Zero-Knowledge  | (Pendiente)     | Opcional: Sujeto a disponibilidad de tiempo.
 
 ## Bibliografia
 - **[Sipser]** Michael Sipser, **Introduction to the Theory of Computation, 
