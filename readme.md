@@ -90,7 +90,9 @@ __(Actualizado 2020-09-23-09:30)__
   - Fecha de entrega: Miércoles 23 de Diciembre.
   - Contenidos: NP Completitud, NP en la práctica.
 
-**Cálculo de nota NC:** La nota de control se calculará como el promedio de las notas E1,E2 y E3, luego que las peores preguntas de E1,E2, y E3 hayan sido reemplazadas con las notas de las mejores preguntas de ER (siempre que ello beneficie al/a la estudiante).
+**Cálculo de nota NC:** La nota de control NC previa al examen, se calculará como el promedio de las notas E1,E2 y E3, luego que las peores preguntas de E1,E2, y E3 hayan sido reemplazadas con las notas de las mejores preguntas de ER (siempre que ello beneficie al/a la estudiante).
+
+**Examen y eximición:** Quienes obtengan NC sea menor a 5.0, deberán dar el exámen (EX). En dicho caso, la nota final del curso (NF) se calcula como el promedio ponderado 60% NC y 40% EX. De eximirse del examen, NF será igual a NC.
 
 ### Atrasos en Evaluaciones
 
