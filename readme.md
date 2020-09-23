@@ -67,18 +67,14 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 * **Evaluación 1**: 
 
   - Fecha publicación: Lunes 28 de Sept.
-
   - Fecha de entrega: Miércoles 14 de Octubre.
-
   - Contenidos: AFD, AFND, ER, Lema Bombeo, GLC, AP.
 
 * **Evaluación 2**: 
 
   - Fecha publicación: Lunes 26 de Oct.
-
   - Fecha de entrega: Miércoles 11 de Noviembre.
-
-  - Contenidos: Teo. Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
+  - Contenidos: Teorema Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
 
 * **Evaluación 3**: 
   
@@ -87,9 +83,9 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
   - Contenidos: Enumeradores, Tesis de Church-Turing, - Indecibilidad, Verificadores Polinomiales.
 
 * **Evaluación Recuperativa**: (Puede reemplazar preguntas sobre Evaluaciones 1,2,3) 
-  Fecha publicación: Lunes 14 de Diciembre,
-  Fecha de entrega: Miércoles 23 de Diciembre.
-  Contenidos: NP Completitud, NP en la práctica.
+  - Fecha publicación: Lunes 14 de Diciembre,
+  - Fecha de entrega: Miércoles 23 de Diciembre.
+  - Contenidos: NP Completitud, NP en la práctica.
   
 
 ### Atrasos en Evaluaciones
