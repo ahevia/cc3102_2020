@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-09-22-20:00)_
+_(Actualizado el 2020-09-23-02:30)_
 
 **Propósito:**
 Conocer qué problemas 
@@ -64,6 +64,8 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 
 ### Calendario Evaluaciones
 
+__(Actualizado 2020-09-23-02:30)__
+
 * **Evaluación 1**: 
 
   - Fecha publicación: Lunes 28 de Sept.
@@ -90,6 +92,8 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 
 ### Atrasos en Evaluaciones
 
+__(Actualizado 2020-09-23-02:30)__
+
 Cada estudiante tendrá hasta 9 días de atraso que puede usar libremente en las 3 evaluaciones (E1,E2,y E3). Cuántos días se atrase en la entrega de una evaluación no importa mientras:
 
 - No sean más de 5 días para cualquier evaluación (para no atrasar las notas),
@@ -111,6 +115,8 @@ Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
 Actualización 2020-09-22: Existe un servidor de [Discord](https://discord.gg/V6G9c4Y) para el curso. Está disponible para contactar a los auxiliares, ayudantes y el profesor; además puede usarlo para colaborar si lo desea. Si no sabe usarlo, preguntar en el foro.
 
 ## Calendario
+
+__(Actualizado 2020-09-23-02:30)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
