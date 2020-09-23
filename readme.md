@@ -65,19 +65,26 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 ### Calendario Evaluaciones
 
 * **Evaluación 1**: 
-  Fecha publicación: Lunes 28 de Sept.
-  Fecha de entrega: Miércoles 14 de Octubre.
-  Contenidos: AFD, AFND, ER, Lema Bombeo, GLC, AP.
+
+  - Fecha publicación: Lunes 28 de Sept.
+
+  - Fecha de entrega: Miércoles 14 de Octubre.
+
+  - Contenidos: AFD, AFND, ER, Lema Bombeo, GLC, AP.
 
 * **Evaluación 2**: 
-  Fecha publicación: Lunes 26 de Oct.
-  Fecha de entrega: Miércoles 11 de Noviembre.
-  Contenidos: Teo. Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
+
+  - Fecha publicación: Lunes 26 de Oct.
+
+  - Fecha de entrega: Miércoles 11 de Noviembre.
+
+  - Contenidos: Teo. Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
 
 * **Evaluación 3**: 
-  Fecha publicación: Lunes 16 de Nov.
-  Fecha de entrega: Miércoles 9 de Diciembre.
-  Contenidos: Enumeradores, Tesis de Church-Turing, Indecibilidad, Verificadores Polinomiales.
+  
+  - Fecha publicación: Lunes 16 de Nov.
+  - Fecha de entrega: Miércoles 9 de Diciembre.
+  - Contenidos: Enumeradores, Tesis de Church-Turing, - Indecibilidad, Verificadores Polinomiales.
 
 * **Evaluación Recuperativa**: (Puede reemplazar preguntas sobre Evaluaciones 1,2,3) 
   Fecha publicación: Lunes 14 de Diciembre,
@@ -137,8 +144,7 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 11     | 21     |                      | NP y Verificadores Polinomiales  | Sipser Cap. 7.3  | 
 12     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
 12     | 23     |                      | SAT es NPC, 3SAT     | Navarro Cap. 6.4; Sipser Cap. 7.4 (304-311)  | 
-13     | 24     |                      | Otros lenguajes NPC 
-| Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
+13     | 24     |                      | Otros lenguajes NPC | Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
 13     | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  |
 14     | 26     |                      | NPC en la práctica, Clases de Complejidad probabilísticas, Complejidad de Espacio, Complejidad Cuántica | Navarro Cap. 6.6; (Pendiente)     | 
 14     | 27     |                      | Demostraciones Interactivas y Zero-Knowledge  | (Pendiente)     |
