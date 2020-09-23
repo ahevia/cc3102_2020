@@ -89,18 +89,21 @@ __(Actualizado 2020-09-23-02:30)__
   - Fecha publicación: Lunes 14 de Diciembre,
   - Fecha de entrega: Miércoles 23 de Diciembre.
   - Contenidos: NP Completitud, NP en la práctica.
-  
+
+**Cálculo de nota NC:** La nota de control 
 
 ### Atrasos en Evaluaciones
 
 __(Actualizado 2020-09-23-02:30)__
 
-Cada estudiante tendrá hasta 9 días de atraso que puede usar libremente en las 3 evaluaciones (E1,E2,y E3). Cuántos días se atrase en la entrega de una evaluación no importa mientras:
+Las evaluaciones tendrán una fecha y horario de entrega (típicamente 23:59hrs) pero se aceptarán atrasos hasta 5 días siguiendo las siguientes reglas:
 
-- No sean más de 5 días para cualquier evaluación (para no atrasar las notas),
-- El total de días atrasados no sea mayor a 9. 
+- Cada estudiante tendrá hasta un máximo de 9 días de atraso que puede usar libremente en las 3 evaluaciones (E1,E2,y E3),
+- No puede usar más de 5 días para cualquier evaluación individual (para no atrasar las notas),
+- Días de fin de semana y semanas de receso no cuentan en los días de atraso, y
+- Una vez que el estudiante haya utilizado la totalidad de sus días de atraso, cualquier entrega que haga posterior a la fecha de entrega será calificada con nota 1.0. 
 
-Estos días de atraso NO se podrán aplicar a la evaluación recuperativa (ER) pues los tiempos complicarían la correción. 
+Nota: Estos días de atraso NO se podrán aplicar a la evaluación recuperativa (ER) pues los tiempos son más ajustados para la correción. 
 
 ## Politica de Colaboración
 
