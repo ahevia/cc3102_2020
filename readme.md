@@ -134,8 +134,8 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 9      | 17     |                      | Modelos alternativos, Tesis de Church-Turing  | Navarro Cap. 4.7; Sipser Cap. 3.2  | 
 10     | 18     | Computabilidad       | Lenguajes Decidibles, El problema de la aceptación (y de la detención), Lenguajes no decidibles  | Navarro Cap. 5.1; Sipser Cap. 4.1,4.2  | 
 10     | 19     |                      | Más lenguajes no decidibles, lenguajes no reconocibles, Teorema de Rice | Navarro Cap. 5.2,5.3; Sipser Cap. 5.1 (hasta pág. 220)  | 
-10+    | 19+    | (Opcional)           | Reducciones de Mapeo | Sipser Cap. 5.3  |
-10+    | 19++   | (Opcional)           | Problema de Correspondencia de Post, Indecibilidad de Gramáticas Ambiguas | Navarro Cap. 5.4; Sipser Cap. 5.2  | 
+10+    | 19+    | (Opcional)           | Reducciones de Mapeo | Sipser Cap. 5.3  | Material extra, se dará lectura opcional.
+10+    | 19++   | (Opcional)           | Problema de Correspondencia de Post, Indecibilidad de Gramáticas Ambiguas | Navarro Cap. 5.4; Sipser Cap. 5.2  | Material extra, se dará lectura opcional.
 11     | 20     | Complejidad          | Tiempo de una MT normal, relación con variantes, P y NP  | Navarro Cap. 6.1,6.2; Sipser Cap. 7.1,7.2  | 
 11     | 21     |                      | NP y Verificadores Polinomiales  | Sipser Cap. 7.3  | 
 12     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
