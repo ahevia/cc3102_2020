@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-09-23-02:30)_
+_(Actualizado el 2020-09-23-09:30)_
 
 **Propósito:**
 Conocer qué problemas 
@@ -65,36 +65,36 @@ Tendremos una evaluación extra opcional (del tipo control para la casa) para re
 
 ### Calendario Evaluaciones
 
-__(Actualizado 2020-09-23-02:30)__
+__(Actualizado 2020-09-23-09:30)__
 
-* **Evaluación 1**: 
+* **Evaluación 1 (E1)**: 
 
   - Fecha publicación: Lunes 28 de Sept.
   - Fecha de entrega: Miércoles 14 de Octubre.
   - Contenidos: AFD, AFND, ER, Lema Bombeo, GLC, AP.
 
-* **Evaluación 2**: 
+* **Evaluación 2 (E2)**: 
 
   - Fecha publicación: Lunes 26 de Oct.
   - Fecha de entrega: Miércoles 11 de Noviembre.
   - Contenidos: Teorema Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
 
-* **Evaluación 3**: 
+* **Evaluación 3 (E3)**: 
   
   - Fecha publicación: Lunes 16 de Nov.
   - Fecha de entrega: Miércoles 9 de Diciembre.
   - Contenidos: Enumeradores, Tesis de Church-Turing, - Indecibilidad, Verificadores Polinomiales.
 
-* **Evaluación Recuperativa**: (Puede reemplazar preguntas sobre Evaluaciones 1,2,3) 
+* **Evaluación Recuperativa (ER)**: (Puede reemplazar preguntas sobre Evaluaciones 1,2,3) 
   - Fecha publicación: Lunes 14 de Diciembre,
   - Fecha de entrega: Miércoles 23 de Diciembre.
   - Contenidos: NP Completitud, NP en la práctica.
 
-**Cálculo de nota NC:** La nota de control 
+**Cálculo de nota NC:** La nota de control se calculará como el promedio de las notas E1,E2 y E3, luego que las peores preguntas de E1,E2, y E3 hayan sido reemplazadas con las notas de las mejores preguntas de ER (siempre que ello beneficie al/a la estudiante).
 
 ### Atrasos en Evaluaciones
 
-__(Actualizado 2020-09-23-02:30)__
+__(Actualizado 2020-09-23-09:30)__
 
 Las evaluaciones tendrán una fecha y horario de entrega (típicamente 23:59hrs) pero se aceptarán atrasos hasta 5 días siguiendo las siguientes reglas:
 
