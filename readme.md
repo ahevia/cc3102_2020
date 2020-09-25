@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-09-24-15:00)_
+_(Actualizado el 2020-09-25-15:00)_
 
 **Propósito:**
 Conocer qué problemas 
@@ -10,7 +10,7 @@ Conocer diferencias en cuanto a la eficiencia de computación de
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Martes y Jueves 12:15pm-1:15pm
-- **Horario Consultas profesor (via Discord): Lu 10am-11am, Vie 3pm-4pm.** (actualizado 2020-09-24-15:00)
+- **Horario Consultas profesor (via Discord): Lu 10am-11am, Vie 3pm-4pm.** (actualizado 2020-09-25-15:00)
 - Clases auxiliares: Miércoles 4:15pm-5:45pm. 
 	- Auxiliares: Ilana Mergudich, y Rodrigo Fuentes.
 	- Ayudantes: Antonia Labarca, Diego León, Pablo Paredes Haz, Vicente Rojas
