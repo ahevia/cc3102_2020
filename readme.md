@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-09-25-15:00)_
+_(Actualizado el 2020-11-16)_
 
 **Propósito:**
 Conocer qué problemas 
@@ -139,9 +139,9 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 6      | 10     |                      | Equivalencia GLC y AP  | Navarro Cap. 3.4,3.5; Sipser Cap. 2.2  | 
 6      | 11     |                      | Teorema de Bombeo, Props. Algorítmicas y Clausura LLC  | Navarro Cap. 3.6,3.7,3.8; Sipser Cap. 2.3  |
 7      | 12     | Máquinas de Turing (MT)   | Intro, ejemplos, configuración, decidir vs. reconocer  | Navarro Cap. 4.1; Sipser Cap. 3.1  | 
-7      | 12+    |                      | decidir vs. reconocer  | 
-8      |        | Paro 
-8      |        | Paro
+7      | 12+    |                      | Continuación MT  | Navarro Cap. 4.1; Sipser Cap. 3.1
+8      |        | (Paro) 
+8      |        | (Paro)
 9      | 13     |                      | Calculando con cadenas, aritméticos; Variantes de MT (MT con "stay")  | Navarro Cap. 4.2; Sipser Cap. 3.2  | 
 9      | 14     |                      | MT multicinta  | Navarro Cap. 4.4; Sipser Cap. 3.2  | 
 10     | 15     |                      | MT no determinista (MTND), computar con MTND  | Navarro Cap. 4.5; Sipser Cap. 3.2  | 
