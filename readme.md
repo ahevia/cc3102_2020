@@ -55,7 +55,7 @@ Para algunas de las actividades evaluativas, lxs estudiantes deberán estar fami
 El curso será completamente evaluado con 3 controles obligatorios y uno recuperativo, cada uno tipo "tarea" (para la casa).
 Para resolver cada control tendrán 2 semanas, y su solución tendrá dos partes:
 - la solución escrita (un PDF en latex o escrita a mano siempre que tenga letra legible y ordenada), y
-- un video de a lo más 3 min explicando lo fundamental de su solución (esto NO es re-describir su solución, sino explicar brevemente la idea principal de cada solución, o con qué se inspiraron, o en base a qué problema o lo hicieron, o si no la entendieron completamente, qué si entendieron). 
+- un video de a lo más 3 min explicando lo fundamental de su solución (esto NO es re-describir su solución, sino explicar brevemente la idea principal de cada solución, o con qué se inspiraron, o en base a qué problema o lo hicieron, o si no la entendieron completamente, qué si entendieron). **Importante:** Si no entrega video la nota de la evaluación sera 1.0. __(Actualizado 2020-11-16)__
 
 Se espera que cada estudiante **entienda bien su solución**. El equipo docente se reserva el derecho a *citar a entrevista personal (vía zoom)* a algunos estudiantes para que expliquen su solución del control. Cuáles estudiantes serán citados será decidido arbitrariamente por el profesor. Note que, el que Ud. sea llamadx _no significa que esté acusado de copia o nada_, simplemente es una manera de confirmar que cada estudiante entiende su solución. Si es llamado a entrevista, la nota final de la solución dependerá tanto de la explicación escrita como de la entrevista.
 
@@ -89,7 +89,7 @@ __(Actualizado 2020-09-23-09:30)__
   - Fecha publicación: Lunes 14 de Diciembre,
   - Fecha de entrega: Miércoles 23 de Diciembre.
   - Contenidos: NP Completitud, NP en la práctica.
-
+  
 **Cálculo de nota NC:** La nota de control NC previa al examen, se calculará como el promedio de las notas E1,E2 y E3, luego que las peores preguntas de E1,E2, y E3 hayan sido reemplazadas con las notas de las mejores preguntas de ER (siempre que ello beneficie al/a la estudiante).
 
 **Examen y eximición:** Quienes obtengan NC sea menor a 5.0, deberán dar el exámen (EX). En dicho caso, la nota final del curso (NF) se calcula como el promedio ponderado 60% NC y 40% EX. De eximirse del examen, NF será igual a NC.
@@ -122,7 +122,7 @@ Actualización 2020-09-22: Existe un servidor de [Discord](https://discord.gg/V6
 
 ## Calendario
 
-__(Actualizado 2020-09-23-02:30)__
+__(Actualizado 2020-11-16)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
@@ -139,23 +139,26 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 6      | 10     |                      | Equivalencia GLC y AP  | Navarro Cap. 3.4,3.5; Sipser Cap. 2.2  | 
 6      | 11     |                      | Teorema de Bombeo, Props. Algorítmicas y Clausura LLC  | Navarro Cap. 3.6,3.7,3.8; Sipser Cap. 2.3  |
 7      | 12     | Máquinas de Turing (MT)   | Intro, ejemplos, configuración, decidir vs. reconocer  | Navarro Cap. 4.1; Sipser Cap. 3.1  | 
-7      | 13     |                      | Calculando con cadenas, aritméticos; Variantes de MT (MT con "stay")  | Navarro Cap. 4.2; Sipser Cap. 3.2  | 
-8      | 14     |                      | MT multicinta  | Navarro Cap. 4.4; Sipser Cap. 3.2  | 
-8      | 15     |                      | MT no determinista (MTND), computar con MTND  | Navarro Cap. 4.5; Sipser Cap. 3.2  | 
-9      | 16     |                      | Enumeradores, MT Universal  | Navarro Cap. 4.6; Sipser Cap. 3.2  | 
-9      | 17     |                      | Modelos alternativos, Tesis de Church-Turing  | Navarro Cap. 4.7; Sipser Cap. 3.2  | 
-10     | 18     | Computabilidad       | Lenguajes Decidibles, El problema de la aceptación (y de la detención), Lenguajes no decidibles  | Navarro Cap. 5.1; Sipser Cap. 4.1,4.2  | 
-10     | 19     |                      | Más lenguajes no decidibles, lenguajes no reconocibles, Teorema de Rice | Navarro Cap. 5.2,5.3; Sipser Cap. 5.1 (hasta pág. 220)  | 
-10+    | 19+    | (Opcional)           | Reducciones de Mapeo | Sipser Cap. 5.3  | Material extra, se dará lectura opcional.
-10+    | 19++   | (Opcional)           | Problema de Correspondencia de Post, Indecibilidad de Gramáticas Ambiguas | Navarro Cap. 5.4; Sipser Cap. 5.2  | Material extra, se dará lectura opcional.
-11     | 20     | Complejidad          | Tiempo de una MT normal, relación con variantes, P y NP  | Navarro Cap. 6.1,6.2; Sipser Cap. 7.1,7.2  | 
-11     | 21     |                      | NP y Verificadores Polinomiales  | Sipser Cap. 7.3  | 
-12     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
-12     | 23     |                      | SAT es NPC, 3SAT     | Navarro Cap. 6.4; Sipser Cap. 7.4 (304-311)  | 
-13     | 24     |                      | Otros lenguajes NPC | Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
-13     | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  | Opcional: Sujeto a disponibilidad de tiempo.
-14     | 26     |                      | NPC en la práctica, Clases de Complejidad probabilísticas, Complejidad de Espacio, Complejidad Cuántica | Navarro Cap. 6.6; (Pendiente)     | 
-14     | 27     |                      | Demostraciones Interactivas y Zero-Knowledge  | (Pendiente)     | Opcional: Sujeto a disponibilidad de tiempo.
+7      | 12+    |                      | decidir vs. reconocer  | 
+8      |        | Paro 
+8      |        | Paro
+9      | 13     |                      | Calculando con cadenas, aritméticos; Variantes de MT (MT con "stay")  | Navarro Cap. 4.2; Sipser Cap. 3.2  | 
+9      | 14     |                      | MT multicinta  | Navarro Cap. 4.4; Sipser Cap. 3.2  | 
+10     | 15     |                      | MT no determinista (MTND), computar con MTND  | Navarro Cap. 4.5; Sipser Cap. 3.2  | 
+10     | 16     |                      | Enumeradores, MT Universal  | Navarro Cap. 4.6; Sipser Cap. 3.2  | 
+11     | 17     |                      | Modelos alternativos, Tesis de Church-Turing  | Navarro Cap. 4.7; Sipser Cap. 3.2  | 
+11     | 18     | Computabilidad       | Lenguajes Decidibles, El problema de la aceptación (y de la detención), Lenguajes no decidibles  | Navarro Cap. 5.1; Sipser Cap. 4.1,4.2  | 
+12     | 19     |                      | Más lenguajes no decidibles, lenguajes no reconocibles, Teorema de Rice | Navarro Cap. 5.2,5.3; Sipser Cap. 5.1 (hasta pág. 220)  | 
+12+    | 19+    | (Opcional)           | Reducciones de Mapeo | Sipser Cap. 5.3  | Material extra, se dará lectura opcional.
+12+    | 19++   | (Opcional)           | Problema de Correspondencia de Post, Indecibilidad de Gramáticas Ambiguas | Navarro Cap. 5.4; Sipser Cap. 5.2  | Material extra, se dará lectura opcional.
+12     | 20     | Complejidad          | Tiempo de una MT normal, relación con variantes, P y NP  | Navarro Cap. 6.1,6.2; Sipser Cap. 7.1,7.2  | 
+13     | 21     |                      | NP y Verificadores Polinomiales  | Sipser Cap. 7.3  | 
+13     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
+14     | 23     |                      | SAT es NPC, 3SAT     | Navarro Cap. 6.4; Sipser Cap. 7.4 (304-311)  | 
+14     | 24     |                      | Otros lenguajes NPC | Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
+14+    | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  | Opcional: Sujeto a disponibilidad de tiempo.
+14+    | 26     |                      | NPC en la práctica, Clases de Complejidad probabilísticas, Complejidad de Espacio, Complejidad Cuántica | Navarro Cap. 6.6; (Pendiente)     | 
+14+    | 27     |                      | Demostraciones Interactivas y Zero-Knowledge  | (Pendiente)     | Opcional: Sujeto a disponibilidad de tiempo.
 
 ## Bibliografia
 - **[Sipser]** Michael Sipser, **Introduction to the Theory of Computation, 
