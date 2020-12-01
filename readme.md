@@ -143,17 +143,18 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 8      |        | (Paro) 
 8      |        | (Paro)
 9      | 13     |                      | Calculando con cadenas, aritméticos; Variantes de MT (MT con "stay")  | Navarro Cap. 4.2; Sipser Cap. 3.2  | 
-9      | 14     |                      | MT multicinta  | Navarro Cap. 4.4; Sipser Cap. 3.2  | 
-10     | 15     |                      | MT no determinista (MTND), computar con MTND  | Navarro Cap. 4.5; Sipser Cap. 3.2  | 
-10     | 16     |                      | Enumeradores, MT Universal  | Navarro Cap. 4.6; Sipser Cap. 3.2  | 
-11     | 17     |                      | Modelos alternativos, Tesis de Church-Turing  | Navarro Cap. 4.7; Sipser Cap. 3.2  | 
-11     | 18     | Computabilidad       | Lenguajes Decidibles, El problema de la aceptación (y de la detención), Lenguajes no decidibles  | Navarro Cap. 5.1; Sipser Cap. 4.1,4.2  | 
-12     | 19     |                      | Más lenguajes no decidibles, lenguajes no reconocibles, Teorema de Rice | Navarro Cap. 5.2,5.3; Sipser Cap. 5.1 (hasta pág. 220)  | 
+9      | 13+    |                      | MT multicinta  | Navarro Cap. 4.4; Sipser Cap. 3.2  | 
+10     | 14     |                      | MT no determinista (MTND), computar con MTND  | Navarro Cap. 4.5; Sipser Cap. 3.2  | 
+10     | 15     |                      | Modelos alternativos, Tesis de Church-Turing, MT Universal  | Navarro Cap. 4.7; Sipser Cap. 3.2  | 
+11     | 16     |                      | Enumeradores, Intro a Lenguajes decidibles e Indecidibles (prox. clase) |   Navarro Cap. 4.6; Sipser Cap. 3.2| 
+11     | 17     | Computabilidad       | Lenguajes Decidibles, El problema de la aceptación (y de la detención), Lenguajes no decidibles | Navarro Cap. 5.1; Sipser Cap. 4.1,4.2  | 
+12     |        | (feriado)            | | | 
+12     | 18     |                      | Más lenguajes no decidibles, lenguajes no reconocibles, Teorema de Rice | Navarro Cap. 5.2,5.3; Sipser Cap. 5.1 (hasta pág. 220)  | 
 12+    | 19+    | (Opcional)           | Reducciones de Mapeo | Sipser Cap. 5.3  | Material extra, se dará lectura opcional.
 12+    | 19++   | (Opcional)           | Problema de Correspondencia de Post, Indecibilidad de Gramáticas Ambiguas | Navarro Cap. 5.4; Sipser Cap. 5.2  | Material extra, se dará lectura opcional.
-12     | 20     | Complejidad          | Tiempo de una MT normal, relación con variantes, P y NP  | Navarro Cap. 6.1,6.2; Sipser Cap. 7.1,7.2  | 
+13     | 20     | Complejidad          | Tiempo de una MT normal, relación con variantes, P y NP  | Navarro Cap. 6.1,6.2; Sipser Cap. 7.1,7.2  | 
 13     | 21     |                      | NP y Verificadores Polinomiales  | Sipser Cap. 7.3  | 
-13     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
+14     | 22     |                      | NP Completitud (NPC) y SAT  | Navarro Cap. 6.3; Sipser Cap. 7.3 (hasta antes de Teo. 7.32) | 
 14     | 23     |                      | SAT es NPC, 3SAT     | Navarro Cap. 6.4; Sipser Cap. 7.4 (304-311)  | 
 14     | 24     |                      | Otros lenguajes NPC | Navarro Cap. 6.5; Sipser Cap. 7.4, 7.5  | 
 14+    | 25     | Tópicos              | Decisión vs. Búsqueda                | (Pendiente)  | Opcional: Sujeto a disponibilidad de tiempo.
