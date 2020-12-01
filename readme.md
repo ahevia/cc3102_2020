@@ -1,5 +1,5 @@
 # CC3102 Teoría de la Computación (2020 Primavera)
-_(Actualizado el 2020-11-16)_
+_(Actualizado el 2020-12-01)_
 
 **Propósito:**
 Conocer qué problemas 
@@ -122,7 +122,7 @@ Actualización 2020-09-22: Existe un servidor de [Discord](https://discord.gg/V6
 
 ## Calendario
 
-__(Actualizado 2020-11-16)__
+__(Actualizado 2020-12-01)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
